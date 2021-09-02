@@ -1,4 +1,4 @@
-public class MyClass {
+public class Armstrong {
     public static void main(String args[]) {
       int n=1634;
       int sum=0,r,temp;
